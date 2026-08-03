@@ -2,7 +2,7 @@
 
 -  I’m currently working on Raspberry Pi Fan Control Board App (Vibecoding)
 
-<img width="636" height="623" alt="pixelart" src="https://github.com/user-attachments/assets/3c0f2300-7242-49be-9544-d0c37a41b309" />
+<img width="200" height="200" alt="pixelart" src="https://github.com/user-attachments/assets/3c0f2300-7242-49be-9544-d0c37a41b309" />
 
 
 <!--
