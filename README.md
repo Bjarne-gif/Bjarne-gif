@@ -1,6 +1,6 @@
 ## Willkommen auf meinem Github ✨
 
--  I’m currently working on Raspberry Pi Fan Control Board App (Vibecoding)
+I’m currently working on Raspberry Pi Fan Control Board App (Vibecoding)
 
   
 <!--
