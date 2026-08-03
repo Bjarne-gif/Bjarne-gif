@@ -1,7 +1,9 @@
 ## Willkommen auf meinem Github ✨
 
-- 🔭 I’m currently working on Raspberry Pi Fan Control Board App (Vibecoding)
-- 🌱 I’m currently learn to Vibecode with Prompts
+-  I’m currently working on Raspberry Pi Fan Control Board App (Vibecoding)
+
+<img width="636" height="623" alt="pixelart" src="https://github.com/user-attachments/assets/3c0f2300-7242-49be-9544-d0c37a41b309" />
+
 
 <!--
 **Bjarne-gif/Bjarne-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
