@@ -7,9 +7,6 @@ I’m currently working on Raspberry Pi Fan Control Board App (Vibecoding)
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Bjarne-gif)](https://github.com/stats-organization/github-stats-extended)
 
-![Meine GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bjarne-gif&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bjarne-gif&layout=compact&theme=nord)
-
 
 <!--
 **Bjarne-gif/Bjarne-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
