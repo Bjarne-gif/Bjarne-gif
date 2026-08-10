@@ -2,6 +2,7 @@
 
 I’m currently working on Raspberry Pi Fan Control Board App (Vibecoding)
 
+![Meine GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bjarne-gif&show_icons=true&theme=tokyonight)
   
 <!--
 **Bjarne-gif/Bjarne-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
