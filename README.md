@@ -1,9 +1,6 @@
 ## Welcome to my Github-Page ✨
 
 I’m currently working on Raspberry Pi Fan Control Board App (Vibecoding)
-![Metrics](https://metrics.lecoq.io/Bjarne-gif?template=classic)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bjarne-gif&theme=react-dark)](https://github.com/ashutosh007/github-readme-activity-graph)
-
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Bjarne-gif)](https://github.com/stats-organization/github-stats-extended)
 
