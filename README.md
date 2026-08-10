@@ -2,8 +2,8 @@
 
 I’m currently working on Raspberry Pi Fan Control Board App (Vibecoding)
 
-![Meine GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bjarne-gif&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bjarne-gif&layout=compact&theme=tokyonight)
+![Meine GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bjarne-gif&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bjarne-gif&layout=compact&theme=nord)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bjarne-gif&theme=react-dark)](https://github.com/ashutosh007/github-readme-activity-graph)
 ![Metrics](https://metrics.lecoq.io/Bjarne-gif?template=classic)
 <!--
