@@ -3,7 +3,7 @@
 I’m currently working on:
 
 - Raspberry Pi Fan Control Board App, 
-- Financial Cost/Income Dashboard, 
+- Financial Cost/Income Dashboard (simple but Assistance with local llms in the future), 
 - Wirless Security Pentesting Tool
  
 (Vibecoding)
