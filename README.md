@@ -1,6 +1,11 @@
 ## Welcome to my Github-Page ✨
 
-I’m currently working on Raspberry Pi Fan Control Board App, Financial Cost/Income Dashboard, Wirless Security Pentesting Tool 
+I’m currently working on:
+
+- Raspberry Pi Fan Control Board App, 
+- Financial Cost/Income Dashboard, 
+- Wirless Security Pentesting Tool
+ 
 (Vibecoding)
 
 ---
