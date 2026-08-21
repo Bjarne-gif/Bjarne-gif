@@ -1,10 +1,7 @@
 ## Welcome to my Github-Page ✨
 
-I’m currently working on Raspberry Pi Fan Control Board App (Vibecoding)
-
-### 🛠️ Technologien & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I’m currently working on Raspberry Pi Fan Control Board App, Financial Cost/Income Dashboard, Wirless Security Pentesting Tool 
+(Vibecoding)
 
 ---
 
