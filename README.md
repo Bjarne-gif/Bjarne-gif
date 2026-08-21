@@ -14,8 +14,8 @@ I’m currently working on Raspberry Pi Fan Control Board App (Vibecoding)
 ### 📊 GitHub Statistiken
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEIN-USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bjarne-gif&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bjarne-gif&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
 <!--
