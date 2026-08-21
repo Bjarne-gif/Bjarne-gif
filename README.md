@@ -11,13 +11,6 @@ I’m currently working on Raspberry Pi Fan Control Board App (Vibecoding)
 
 ---
 
-### 📊 GitHub Statistiken
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bjarne-gif&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bjarne-gif&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
-
 <!--
 **Bjarne-gif/Bjarne-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
