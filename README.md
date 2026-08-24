@@ -19,9 +19,7 @@
 <div align="center">
   <h3>🛠️ My Tech Stack</h3>
   <p>
-    <!-- Passe diese Badges an deine verwendeten Sprachen an -->
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
+    <img src="https://img.shields.io/badge/100%25_Powered_by-Claude_AI-D97756?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI">
   </p>
+  <p><i>(I vibe & prompt, Claude writes the code 🧙‍♂️)</i></p>
 </div>
