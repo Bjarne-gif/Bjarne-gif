@@ -22,3 +22,9 @@
   <br>
   <img src="https://img.shields.io/badge/10%25_Powered_by-Me-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="10% Powered by Me">
 </div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/POWERED_BY-90%25_CLAUDE_AI-D97756?style=for-the-badge&logo=anthropic&logoColor=white&logoWidth=14" alt="Claude AI">
+  <br><br>
+  <img src="https://img.shields.io/badge/POWERED_BY-10%25_ME-2196F3?style=for-the-badge&logo=github&logoColor=white&logoWidth=14" alt="Me">
+</div>
