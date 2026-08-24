@@ -1,34 +1,27 @@
 ## Welcome to my Github-Page ✨
 
-I’m currently working on:
+### 🔭 I'm currently working on...
 
-> Raspberry Pi Fan Control Board App, 
+- 🍓 **[Raspberry Pi Fan Control App](#)** <br>
+  A dedicated application for managing and monitoring Raspberry Pi cooling systems.
 
-> Financial Cost/Income Dashboard 
-  (Simple Dashboard for Costs and Income, Assistance with local llms in the future), 
+- 📊 **[Financial Dashboard](#)** <br>
+  A sleek dashboard for tracking costs and income. *Upcoming feature: Smart financial assistance powered by local LLMs!*
 
-> Wirless Security Pentesting Tool (not public yet)
+- 🎓 **[ECTS-Hunter](#)** <br>
+  A streamlined credit point tracking system tailored for Bachelor students at the FernUniversität in Hagen.
 
-> ECTS-Hunter (Credit Point Overview System for Bachelor Degree Fernuniversität Hagen)
-
-[![Button Text](https://img.shields.io/badge/PROJEKT-Online--Shop-blue?style=for-the-badge&logo=github)](https://github.com/Bjarne-gif/finanzkontor)
-[![Button Text](https://img.shields.io/badge/RELEASES-v1.0.0-green?style=for-the-badge&logo=rocket)](https://github.com/Bjarne-gif/rpi_lueftersteuerung)
-
-#(Vibecoding)
+- 🔐 **Wireless Security Pentesting Tool** <br>
+  *Currently in stealth mode (Not public yet).*
 
 ---
 
-<!--
-**Bjarne-gif/Bjarne-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>🛠️ My Tech Stack</h3>
+  <p>
+    <!-- Passe diese Badges an deine verwendeten Sprachen an -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
+  </p>
+</div>
