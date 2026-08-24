@@ -17,7 +17,6 @@
 ---
 
 <div align="left">
-  <h3>🛠️ My Tech Stack</h3>
   <p>
     <img src="https://img.shields.io/badge/100%25_Powered_by-Claude_AI-D97756?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI">
   </p>
