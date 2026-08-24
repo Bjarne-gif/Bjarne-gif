@@ -17,11 +17,6 @@
   *Currently in stealth mode (Not public yet).*
 
 ---
-<div align="left">
-  <img src="https://img.shields.io/badge/90%25_Powered_by-Claude_AI-D97756?style=for-the-badge&logo=anthropic&logoColor=white" alt="99% Powered by Claude AI">
-  <br>
-  <img src="https://img.shields.io/badge/10%25_Powered_by-Me-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="10% Powered by Me">
-</div>
 
 <div align="left">
   <img src="https://img.shields.io/badge/90%25_POWERED_BY-CLAUDE_AI-D97756?style=for-the-badge&logo=anthropic&logoColor=white&logoWidth=14" alt="Claude AI">
