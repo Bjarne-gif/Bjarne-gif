@@ -11,7 +11,6 @@
   **[ECTS-Hunter](https://github.com/Bjarne-gif/ects-hunter)** <br>
   A streamlined credit point tracking system tailored for Bachelor students at the FernUniversität in Hagen.
   
-  🔐
   **[Wireless Security Pentesting Tool](#)** <br>
   *Currently in stealth mode (Not public yet).*
 
