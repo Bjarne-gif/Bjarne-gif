@@ -25,6 +25,6 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/90%25_POWERED_BY-CLAUDE_AI-D97756?style=for-the-badge&logo=anthropic&logoColor=white&logoWidth=14" alt="Claude AI">
-  <br><br>
+  <br>
   <img src="https://img.shields.io/badge/%2010%25_POWERED_BY-ME-2196F3?style=for-the-badge&logo=github&logoColor=white&logoWidth=16" alt="Me">
 </div>
