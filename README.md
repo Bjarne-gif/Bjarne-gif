@@ -1,6 +1,6 @@
 ## Welcome to my Github-Page ✨
 
-### 🔭 I'm currently working on...
+### I'm currently working on...
 
   **[Raspberry Pi Fan Control App](https://github.com/Bjarne-gif/rpi_lueftersteuerung)** <br>
   A dedicated application for managing and monitoring Raspberry Pi cooling systems.
