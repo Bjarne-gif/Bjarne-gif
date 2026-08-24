@@ -10,7 +10,9 @@ I’m currently working on:
 > Wirless Security Pentesting Tool (not public yet)
 
 > ECTS-Hunter (Credit Point Overview System for Bachelor Degree Fernuniversität Hagen)
- 
+
+[![Button Text](https://img.shields.io/badge/PROJEKT-Online--Shop-blue?style=for-the-badge&logo=github)](https://github.com/DEIN-USERNAME/online-shop)
+[![Button Text](https://img.shields.io/badge/RELEASES-v1.0.0-green?style=for-the-badge&logo=rocket)](https://github.com/DEIN-USERNAME/online-shop/releases)
 #(Vibecoding)
 
 ---
