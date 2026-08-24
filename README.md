@@ -4,7 +4,7 @@ I’m currently working on:
 
 - Raspberry Pi Fan Control Board App, 
 - Financial Cost/Income Dashboard (Simple Dashboard for Costs and Income, Assistance with local llms in the future), 
-- Wirless Security Pentesting Tool
+- Wirless Security Pentesting Tool (not public yet)
 - ECTS-Hunter (Credit Point Overview System for Bachelor Degree Fernuniversität Hagen)
  
 (Vibecoding)
