@@ -1,7 +1,7 @@
 ## Welcome to my Github-Page ✨
 
 ### 🔭 I'm currently working on...
-
+<div align="center">
 - 🍓 **[Raspberry Pi Fan Control App](https://github.com/Bjarne-gif/rpi_lueftersteuerung)** <br>
   A dedicated application for managing and monitoring Raspberry Pi cooling systems.
 
@@ -13,7 +13,7 @@
 
 - 🔐 **Wireless Security Pentesting Tool** <br>
   *Currently in stealth mode (Not public yet).*
-
+</div>
 ---
 
 <div align="center">
