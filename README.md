@@ -1,5 +1,5 @@
 ## Welcome to my Github-Page ✨
-<div align="center">
+
 ### 🔭 I'm currently working on...
 
 - 🍓 **[Raspberry Pi Fan Control App](https://github.com/Bjarne-gif/rpi_lueftersteuerung)** <br>
@@ -14,10 +14,9 @@
 - 🔐 **Wireless Security Pentesting Tool** <br>
   *Currently in stealth mode (Not public yet).*
 
-</div>
 ---
 
-<div align="center">
+<div align="left">
   <h3>🛠️ My Tech Stack</h3>
   <p>
     <img src="https://img.shields.io/badge/100%25_Powered_by-Claude_AI-D97756?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI">
