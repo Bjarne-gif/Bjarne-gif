@@ -8,7 +8,7 @@
   A dedicated application for managing and monitoring Raspberry Pi cooling systems.
 
   🔐 **[Finanzkontor - Financial Dashboard](#)** <br>
-  A sleek dashboard for tracking costs and income. *Upcoming feature: Smart financial assistance powered by local LLMs!*
+  A sleek dashboard for tracking costs and income. *Smart financial assistance powered by local LLMs!*
   *Currently in stealth mode (Not public yet).*
 
   **[ECTS-Hunter](https://github.com/Bjarne-gif/ects-hunter)** <br>
