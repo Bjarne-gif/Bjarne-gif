@@ -10,13 +10,17 @@
   🔐 **[Finanzkontor - Financial Dashboard](#)** <br>
   A sleek dashboard for tracking costs and income. *Smart financial assistance powered by local LLMs!*
   *Currently in stealth mode (Not public yet).*
-
-  **[ECTS-Hunter](https://github.com/Bjarne-gif/ects-hunter)** <br>
-  A streamlined credit point tracking system tailored for Bachelor students at the FernUniversität in Hagen.
+  
+  🔐 **[Unitastisch](#)** <br>
+  Dockerized study organisation tool tailored for Bachelor students at the FernUniversität in Hagen. Upcomming: *playground dashboard to organize and* *Smart financial assistance powered by local LLMs!*
+  *(Not public yet)*
   
   🔐 **[Wireless Security Pentesting Tool](#)** <br>
   *Currently in stealth mode (Not public yet).*
-
+  
+  [⚠️DROPPED⚠️] **[ECTS-Hunter](https://github.com/Bjarne-gif/ects-hunter)** <br>
+  A streamlined credit point tracking system tailored for Bachelor students at the FernUniversität in Hagen.
+  
 ---
 
 <div align="left">
